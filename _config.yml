@@ -1,6 +1,6 @@
 name: Vermicious Dad
 favicon: null
-layout_spectrum: 0.6861172413919121
+layout_spectrum: 0.01617
 typography_spectrum: 0.4234630048740655
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.11085560265928507
+  brandStrength: 0.5
   lightness: 0.7733723723795265
   saturation: 0.6602294095791876
   rhythmicContrast: 0.36608077003620565
